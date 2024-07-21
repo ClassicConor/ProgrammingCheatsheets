@@ -18,6 +18,7 @@ Key:
 | Bulma                                                           | Medium/High                               | 🟨       | Waiting for Bulma to enter 1.0.                                                                |
 | Concurrent Programming Concepts                                 | Medium/High                               | 🟥       | Need to begin adding more key concepts                                                         |
 | Docker                                                          | Easy/Medium                               | ⬜       | Redo entire thing with boot.dev.                                                               |
+| Firebase                                                        | High                                      | 🟥       | Learning it now, so will hopefully be updated with useful information very shortly.            |
 | Git and GitHub                                                  | Medium/High                               | 🟨       | Not much more to learn for mat at this point in time.                                          |
 | HTML and CSS (Vanilla)                                          | High                                      | 🟩       | Hardly anything left to say. Styling now needs to be learnt with Bulma/Web frameworks.         |
 | Java (Vanilla)                                                  | Medium                                    | 🟩       | Advanced Java/other Java things (e.g. graphics) should be in their own spreadsheet.            |
