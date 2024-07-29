@@ -42,7 +42,24 @@ Key:
 | Typst                                                           | Medium/High                               | 🟩       | Got all the basic things. No rush to add more complex things.                                  |
 | VSCodeVim                                                       | Medium/High                               | 🟩       | Just need to learn it now.                                                                     |
 
-Additional Notes:
+## Priority Cheatsheets to work on
+
+- Python (Vanilla):
+  - Need to add absolute basic code, as well as interactions with files
+  - Python tools and functions, such as virtual environments, etc
+- PHP:
+  - Need to rewrite the basic code from the ground up again
+- Python (Scikit-Learn, Keras and Advanced AI):
+  - Need to rewrite the basic code from the ground up again
+  - Include more relevant examples
+- JavaScript/TypeScript (Vanilla):
+  - Examples of more specific types of functions, including how async and await work together
+  - Include more ways to grab information/reduce the syntax
+- Docker
+  - Restart the entire cheatsheet from the ground up
+  - Include references to the Docker desktop application
+
+### Additional Notes
 
 - AWS CLF-002 Exam Resources:
   - [freeCodeCamp AWS CLF-C02 Original Video](https://www.youtube.com/watch?v=NhDYbskXRgc)
