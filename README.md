@@ -23,6 +23,7 @@ Key:
 | Docker                                                          | Easy/Medium                                            | ⬜       | Redo entire thing with boot.dev.                                                                               |
 | Firebase                                                        | Medium/High                                            | 🟨       | Contains basics for authentication, Firestore, real-time databases and file storage                            |
 | Git and GitHub                                                  | Medium/High                                            | 🟨       | Not much more to learn for mat at this point in time.                                                          |
+| Haskell                                                         | High                                                   | 🟨       | Filling in details with the lectures                                                                           |
 | Human-Computer Interaction (HCI) - COM3280                      | High                                                   | 🟩       | Includes everything inside the University of Kent lectures, but not everything in HCI                          |
 | HTML and CSS (Vanilla)                                          | High                                                   | 🟩       | Hardly anything left to say. Styling now needs to be learnt with Bulma/Web frameworks.                         |
 | Java (Vanilla)                                                  | Medium                                                 | 🟩       | Advanced Java/other Java things (e.g. graphics) should be in their own spreadsheet.                            |
@@ -48,6 +49,7 @@ Key:
 | Typst                                                           | Medium/High                                            | 🟩       | Got all the basic things. No rush to add more complex things.                                                  |
 | VSCodeVim                                                       | Medium/High                                            | 🟩       | Just need to learn it now.                                                                                     |
 | XML                                                             | High                                                   | 🟩       | Contains most of what is required                                                                              |
+| Topic                                                           | How Much of the Entire Subject is meant to be Covered  | Quality | Needs to add                                                                                                   |
 
 ## Priority Cheatsheets to work on
 
