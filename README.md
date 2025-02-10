@@ -1,4 +1,6 @@
-# Programming Cheatsheets
+# Programming Cheatsheets (on haitus)
+
+**I will not be updating many of these cheatsheets for much longer. These cheatsheets, therefore, will remain dormant, without updates, and only for those interested in the current content.**
 
 As part of my progrmaming journey, I have gone through a variety of tools and features, and everything that I am learning I am adding to these spreadsheets.
 
@@ -33,7 +35,6 @@ Key:
 | LlamaIndex and Ollama                                           | High                                                  | 🟥       | Needs to learn it in more detail at some point, beyond just a single video.                                    |
 | MongoDB                                                         | High                                                  | 🟩       | Contains the most essential items except Atlas                                                                 |
 | Nand2Tetris HDL                                                 | Medium                                                | 🟥       | Still quite empty. Needs to be filled in with more types of logic gates                                        |
-| Node.js and Express.js                                          | Medium/High                                           | ⬜       | Need to redo Node.js and Express.JS                                                                            |
 | PHP (Vanilla)                                                   | Medium                                                | 🟨       | Redo it once again, but this time following the BroCode video.                                                 |
 | Python and MySQL                                                | Medium/High                                           | 🟥       | Only really contains the basics right now. Not sure how much further I want to go with it.                     |
 | Python (Vanilla)                                                | Medium/High                                           | 🟨       | I don't have the absolute basics (since I already know them), nor much advanced Vanilla.                       |
@@ -45,8 +46,6 @@ Key:
 | RevealJS (JavaScript)                                           | High                                                  | 🟩       | Pretty much everything's there.                                                                                |
 | Rust (Vanilla)                                                  | Easy/Medium                                           | 🟨       | Still working on it. Will not be able to contain everything, but it will be good for what it is.               |
 | SQL (Vanilla)                                                   | Medium                                                | 🟩       | It's got pretty much everything there to get started.                                                          |
-| SQL (MySQL)                                                     | Medium/High                                           | ⬜       | Empty. Create using BroCode video.                                                                             |
-| SQL (PostGreSQL)                                                | Medium/High                                           | ⬜       | Empty. Create using online video. Should be very similar to MySQL.                                             |
 | Svelte (JavaScript)                                             | Medium/High                                           | 🟨       | Need to look at it again at some point. Also need to add Svelte 5 features like Runes.                         |
 | Typst                                                           | Medium/High                                           | 🟩       | Got all the basic things. No rush to add more complex things.                                                  |
 | VSCodeVim                                                       | Medium/High                                           | 🟩       | Just need to learn it now.                                                                                     |
